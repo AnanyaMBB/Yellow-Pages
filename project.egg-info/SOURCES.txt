@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+yellowpagesscraper/__init__.py
+yellowpagesscraper/items.py
+yellowpagesscraper/middlewares.py
+yellowpagesscraper/pipelines.py
+yellowpagesscraper/settings.py
+yellowpagesscraper/spiders/__init__.py
+yellowpagesscraper/spiders/yellowspider.py
